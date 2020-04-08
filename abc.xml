@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ehr>
+  <form>
+  </form>
+  <form>
+    <name>ameya </name>
+    <sur_name>brid </sur_name>
+    <s_age>21</s_age>
+    <gen_der>male</gen_der>
+    <add_ress></add_ress>
+    <doc_tor></doc_tor>
+    <da_te></da_te>
+    <sum_mary></sum_mary>
+    <diag_nose></diag_nose>
+    <invest_gt></invest_gt>
+    <rep_ort></rep_ort>
+    <ad_vice></ad_vice>
+    <ob_serve></ob_serve>
+    <follow_up></follow_up>
+  </form>
+</ehr>
